@@ -5,16 +5,16 @@ Rigel trained as a diplomat, and has a moderate amount of experience in this pro
 
 Will avoid going into detail about Friday (in particular, he will avoid identifying her), but will not hide why he is trying to establish his own name. Has picked up some firearms knowledge just by being around Friday for long enough.
 
-# Stats
+# Stats  
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
 | Race          | Dragonkin          | Theme         | Noble Scion        |
 | Size          | Large              | Age           | 157 years          |
 | Type          | Dragon             | Gender        | Male               |
 | Space         | 10ft               | Length        | 15ft 2in           |
-| Reach         | 10ft               | Weight        | ???
-| Speed (Walk)  | 30ft               | Homeworld     | ???
-| Speed (Fly)   | 30ft\*             | 
+| Reach         | 10ft               | Weight        | ???                |
+| Speed (Walk)  | 30ft               | Homeworld     | ???                |
+| Speed (Fly)   | 30ft\*             |               |                    |
 - \*Note: Must land at end of movement until level 5.
   - Rigel has not flown for quite a while in his ship. He needs time to regain his wing strength.
 
@@ -30,7 +30,7 @@ Will avoid going into detail about Friday (in particular, he will avoid identify
 | Stamina  |                  6 |
 
 
-Ability Scores:
+Ability Scores:  
 | Stat  | Score | Modifier | |
 |-------|-------|----------|-|
 | `STR` |   15  |    +2    |
@@ -73,11 +73,12 @@ Initiative: +1 (DEX)
 | Breath Weapon             | N\A   |   0   | Auto-hit      | 1d6 Force    |          | 30ft Cone |    N/A     | 1/Short Rest | ref save half     |
 | Tactical Semi-Auto Pistol | 1     |   1   | Ranged        | 1d6 Piercing |          | 30ft      | 9 rounds   |      1       | Analog            |
 | Azimuth Shoulder Laser    | 2     |   1   | Ranged        | 1d3 Fire     |          | 40ft      | 20 charges |      1       | Integrated(1)     |
-| Survival Knife            | 1     |   1   | Melee, Thrown | 1d4 Slashing |          | Melee     |    N/A     |     N/A      | Analog, Operative |
+| Survival Knife            | 1     |   1   | Melee, Thrown | 1d4 Slashing |          | Melee     |    N/A     |     N/A      | Analog, Operative |  
 
 | Armour          | Level | EAC Bonus | KAC Bonus | Max Dex Bonus | Bulk | AC Penalty | Speed Adj. | Upgrade Slots |
 |-----------------|-------|-----------|-----------|---------------|------|------------|------------|---------------|
 | Vesk Brigandine |   1   |     2     |     2     |      +5       |   L  |      0     |      0     |   1(1 used)   |
+
 - Azimuth Shoulder Laser installed
 
 # Features
@@ -111,7 +112,7 @@ You move about in the highest echelons of galactic society. Your status allows y
 
 6 + INT Skill Points per Level
 
-### Proficiencies
+### Proficiencies  
 | Armour | Weapons     |
 |--------|-------------|
 | Light  | Basic Melee |
@@ -123,7 +124,7 @@ You’re able to hear the soundless melody that drives all observable astronomic
 
 **Associated Deities**: Azathoth, Desna, Ibra, Yaraesa  
 **Associated Skills**: Culture and Physical Science  
-**Spells**:
+**Spells**:  
 | Spell Level | Spell Name                 |
 |-------------|----------------------------|
 | 1st         | Charm Person               |
@@ -153,18 +154,18 @@ You act as a conduit for the mystical Song of the Spheres, inspiring your allies
 ### Enlightenment (Su) (20th Level)
 
 # Spells
-## Level 0(Cantrips)
+## Level 0(Cantrips)  
 | Known | Per Day |
 |-------|---------|
 |   4   |   Inf   |
 
-## Level 1
+## Level 1  
 | Known | Per Day |
 |-------|---------|
 |   2   |    2    |
 Charm Person (Melophile, 1st Level)
 
-# Skills
+# Skills  
 | Skill Name           | Class Skill | Total Bonus | Ranks | Class Bonus | Ability Mod | Misc Mod |
 |----------------------|-------------|-------------|-------|-------------|-------------|----------|
 | Acrobatics           |      No     |     +1      |   0   |      0      |   1 (DEX)   |    +0    |
@@ -222,7 +223,7 @@ Semi-Auto Pistol
 Azimuth Shoulder Laser  
 Survival Knife  
 
-### Carrying Capacity
+### Carrying Capacity  
 | Unencumbered | Encumbered | Overburdened |
 |--------------|------------|--------------|
 |       7      |      8     |      16      |
@@ -241,7 +242,7 @@ Small Arms
 Light Armour
 
 # Backstory
-The legendary Friday Kataran has had many sons and daughters over her long, long life. One of these is Rigel.
+The legendary Friday Kataran has had many sons and daughters over her long, long life. Rigel is one of these.
 
 Rigel is one of the sons of a legendary dragoness, and has ended up being stuck in the shadow of his mother, measured by the standard of her blown-out-of-proportion reputation.
 He has struck out on his own to make his own name, and sought adventure. In pursuit of this, he has found himself drawn to the Pact Worlds.
