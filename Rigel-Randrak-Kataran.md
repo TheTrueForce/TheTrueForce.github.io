@@ -31,6 +31,7 @@ Will avoid going into detail about Friday (in particular, he will avoid identify
 
 
 Ability Scores:  
+
 | Stat  | Score | Modifier | |
 |-------|-------|----------|-|
 | `STR` |   15  |    +2    | |
