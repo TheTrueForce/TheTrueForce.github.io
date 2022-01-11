@@ -33,12 +33,12 @@ Will avoid going into detail about Friday (in particular, he will avoid identify
 Ability Scores:  
 | Stat  | Score | Modifier | |
 |-------|-------|----------|-|
-| `STR` |   15  |    +2    |
-| `DEX` |   13  |    +1    |
-| `CON` |   16  |    +3    |
-| `INT` |   11  |    +0    |
+| `STR` |   15  |    +2    | |
+| `DEX` |   13  |    +1    | |
+| `CON` |   16  |    +3    | |
+| `INT` |   11  |    +0    | |
 | `WIS` |   16  |    +3    | Key Ability Score |
-| `CHA` |   17  |    +3    |
+| `CHA` |   17  |    +3    | |
 
 Initiative: +1 (DEX)
 
