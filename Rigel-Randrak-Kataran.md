@@ -6,6 +6,7 @@ Rigel trained as a diplomat, and has a moderate amount of experience in this pro
 Will avoid going into detail about Friday (in particular, he will avoid identifying her), but will not hide why he is trying to establish his own name. Has picked up some firearms knowledge just by being around Friday for long enough.
 
 # Stats  
+
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
 | Race          | Dragonkin          | Theme         | Noble Scion        |
@@ -34,12 +35,12 @@ Ability Scores:
 
 | Stat  | Score | Modifier | |
 |-------|-------|----------|-|
-| STR |   15  |    +2    | |
-| DEX |   13  |    +1    | |
-| CON |   16  |    +3    | |
-| INT |   11  |    +0    | |
-| WIS |   16  |    +3    | Key Ability Score |
-| CHA |   17  |    +3    | |
+| `STR` |   15  |    +2    | |
+| `DEX` |   13  |    +1    | |
+| `CON` |   16  |    +3    | |
+| `INT` |   11  |    +0    | |
+| `WIS` |   16  |    +3    | Key Ability Score |
+| `CHA` |   17  |    +3    | |
 
 Initiative: +1 (DEX)
 
@@ -113,7 +114,8 @@ You move about in the highest echelons of galactic society. Your status allows y
 
 6 + INT Skill Points per Level
 
-### Proficiencies  
+### Class Proficiencies  
+
 | Armour | Weapons     |
 |--------|-------------|
 | Light  | Basic Melee |
@@ -126,6 +128,7 @@ You’re able to hear the soundless melody that drives all observable astronomic
 **Associated Deities**: Azathoth, Desna, Ibra, Yaraesa  
 **Associated Skills**: Culture and Physical Science  
 **Spells**:  
+
 | Spell Level | Spell Name                 |
 |-------------|----------------------------|
 | 1st         | Charm Person               |
@@ -156,17 +159,20 @@ You act as a conduit for the mystical Song of the Spheres, inspiring your allies
 
 # Spells
 ## Level 0(Cantrips)  
+
 | Known | Per Day |
 |-------|---------|
 |   4   |   Inf   |
 
 ## Level 1  
+
 | Known | Per Day |
 |-------|---------|
 |   2   |    2    |
 Charm Person (Melophile, 1st Level)
 
 # Skills  
+
 | Skill Name           | Class Skill | Total Bonus | Ranks | Class Bonus | Ability Mod | Misc Mod |
 |----------------------|-------------|-------------|-------|-------------|-------------|----------|
 | Acrobatics           |      No     |     +1      |   0   |      0      |   1 (DEX)   |    +0    |
@@ -225,6 +231,7 @@ Azimuth Shoulder Laser
 Survival Knife  
 
 ### Carrying Capacity  
+
 | Unencumbered | Encumbered | Overburdened |
 |--------------|------------|--------------|
 |       7      |      8     |      16      |
