@@ -16,6 +16,7 @@ Will avoid going into detail about Friday (in particular, he will avoid identify
 | Reach         | 10ft               | Weight        | ???                |
 | Speed (Walk)  | 30ft               | Homeworld     | ???                |
 | Speed (Fly)   | 30ft\*             |               |                    |
+
 - \*Note: Must land at end of movement until level 5.
   - Rigel has not flown for quite a while in his ship. He needs time to regain his wing strength.
 
@@ -169,6 +170,7 @@ You act as a conduit for the mystical Song of the Spheres, inspiring your allies
 | Known | Per Day |
 |-------|---------|
 |   2   |    2    |
+
 Charm Person (Melophile, 1st Level)
 
 # Skills  
