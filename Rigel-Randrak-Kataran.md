@@ -13,13 +13,21 @@ Will avoid going into detail about Friday (in particular, he will avoid identify
 | Size          | Large              | Age           | 157 years          |
 | Type          | Dragon             | Gender        | Male               |
 | Space         | 10ft               | Length        | 15ft 2in           |
-| Reach         | 10ft               | Weight        | ???                |
+| Reach         | 10ft               | Weight        | 1981 lbs           |
 | Speed (Walk)  | 30ft               | Homeworld     | ???                |
 | Speed (Fly)   | 30ft\*             |               |                    |
 
 - \*Note: Must land at end of movement until level 5.
   - Rigel has not flown for quite a while in his ship. He needs time to regain his wing strength.
 
+| Key    | Value | Calculation                                   |
+|-------:|------:|-----------------------------------------------|
+| Max SP |    6  | `Level * (CON + Class SP)`                    |
+|     SP |    6  |                                               |
+| Max HP |   12  | `(Level * (Class HP)) + (Race HP)`            |
+|     HP |   12  |                                               |
+| Max RP |    4  | `floor(min(floor(level / 2), 1) * (key mod))` |
+|     RP |    4  |                                               |
 
 | Class    | Mystic (Melophile) |
 |----------|--------------------|
