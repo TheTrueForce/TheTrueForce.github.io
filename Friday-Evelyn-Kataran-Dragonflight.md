@@ -7,7 +7,7 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 13 Dragon
+Level 14 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
@@ -36,9 +36,9 @@ lvl8: 276
 lvl9: 312  
 lvl10: 348  
 lvl11: 384  
-lvl12: 420
-lvl13: 456
-lvl14: 
+lvl12: 420  
+lvl13: 456  
+lvl14: 492  
 
 ### Ability Scores
 
@@ -58,7 +58,7 @@ Dragon Save DC: 8 + prof + DEX =
 
 ## Proficiencies
 
-Proficiency Bonus: +5  
+Proficiency Bonus: +6  
 - Weapons
   - Natural weapons (bite, claw, tail)
 - Skills
@@ -78,8 +78,8 @@ Claw Attack: 2d8 slashing, 5ft range
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - These are determined by CON
 
-Breath Weapon: 60ft Cone; 11d10 force damage, DEX save half  
-Breath Weapon: 120ft Line; 11d10 force damage, CON save half
+Breath Weapon: 75ft Cone; 11d10 force damage, DEX save half  
+Breath Weapon: 150ft Line; 11d10 force damage, CON save half
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
@@ -225,7 +225,7 @@ When you touch an object, you instantly learn about its nature as though you had
 ### Damage Immunities
 You are immune to the type(s) of damage your breath weapon deals (determined by your species).
 
-### Multiattack II
+### Multiattack III
 I: Beginning at 4th level, when you take the Attack action, you can make one attack with your Bite or Tail, and one with your Claw.  
 II: At 9th level, when you take the Attack action, you can make one attack with your Bite or Tail, and two with your Claw.  
 III: At 14th level, when you take the Attack action, you can make one attack with your Bite, two with your Claw, and one with your Tail.  
