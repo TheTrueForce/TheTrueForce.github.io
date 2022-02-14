@@ -7,7 +7,7 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 10 Dragon
+Level 11 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
@@ -35,7 +35,7 @@ lvl7: 240
 lvl8: 276  
 lvl9: 312  
 lvl10: 348  
-lvl11: 
+lvl11: 384  
 lvl12: 
 lvl13: 
 lvl14: 
@@ -47,15 +47,15 @@ lvl14:
 | `STR` | 20    |    +5    |        YES        |
 | `DEX` | 22    |    +6    |        YES        |
 | `CON` | 23    |    +6    |        YES        |
-| `INT` | 21    |    +5    |                   |
+| `INT` | 23    |    +5    |                   |
 | `WIS` | 22    |    +6    |        YES        |
-| `CHA` | 23    |    +6    |        YES        |
+| `CHA` | 25    |    +6    |        YES        |
 
 Dragon Save DC: 8 + prof + DEX = 
 
 ## Proficiencies
 
-Proficiency Bonus: +4  
+Proficiency Bonus: +5  
 - Weapons
   - Natural weapons (bite, claw, tail)
 - Skills
@@ -75,8 +75,8 @@ Claw Attack: 2d8 slashing, 5ft range
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - These are determined by CON
 
-Breath Weapon: 45ft Cone; 9d10 force damage, DEX save half  
-Breath Weapon: 90ft Line; 9d10 force damage, CON save half
+Breath Weapon: 60ft Cone; 9d10 force damage, DEX save half  
+Breath Weapon: 120ft Line; 9d10 force damage, CON save half
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
