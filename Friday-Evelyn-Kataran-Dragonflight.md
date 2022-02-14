@@ -7,7 +7,7 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 12 Dragon
+Level 13 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
@@ -37,19 +37,19 @@ lvl9: 312
 lvl10: 348  
 lvl11: 384  
 lvl12: 420
-lvl13: 
+lvl13: 456
 lvl14: 
 
 ### Ability Scores
 
 | Stat  | Score | Modifier | Saving Throw Prof |
 |-------|-------|----------|-------------------|
-| `STR` | 20    |    +5    |        YES        |
+| `STR` | 21    |    +5    |        YES        |
 | `DEX` | 22    |    +6    |        YES        |
 | `CON` | 23    |    +6    |        YES        |
-| `INT` | 23    |    +5    |                   |
-| `WIS` | 22    |    +6    |        YES        |
-| `CHA` | 25    |    +6    |        YES        |
+| `INT` | 24    |    +7    |                   |
+| `WIS` | 23    |    +6    |        YES        |
+| `CHA` | 26    |    +8    |        YES        |
 
 Dragon Save DC: 8 + prof + DEX = 
 
@@ -133,6 +133,31 @@ You have blindsight out to a range of 30 feet, and darkvision out to a range of 
 
 #### Age Restricted
 While you may grow in power through experience and adventuring, you cannot advance to 13th level until you also advance your age category, becoming an adult dragon. To become an adult dragon, you must be 12th level and have a hoard of equivalent value to a monarch’s royal treasury. The DM determines exactly how much that is. When you have met these prerequisites, you must slumber with your treasure hoard for a period of time determined by the DM, rapidly maturing your body. At the end of your hibernation, you awaken as an adult dragon of your species.
+
+### Age Category: Adult
+At 13th level, you have attained the size and power of an adult dragon. As an adult dragon of your species, you gain the following features.
+
+#### Ability Score Increase
+You can increase four different ability scores of your choice by 1.
+
+#### Ability Score Maximum
+Your maximum for any ability score is 28.
+
+#### Armor
+While not wearing armor, your AC is equal to 19.
+
+#### Frightful Presence
+When you take the Attack action, you can forgo making one of your attacks to instead act in a fearsome manner that terrifies your enemies. When you do so, each creature of your choice within 120 feet of you that you are aware of must succeed on a Wisdom saving throw versus your dragon save DC or become frightened of you for 1 minute. A creature can repeat this saving throw at the end of each of its turns, ending the effect on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to your Frightful Presence for the next 24 hours.
+
+#### Dragonflight
+If you are a part of a dragonflight or are creating an NPC as a part of a dragonflight, you gain the following benefits:
+
+##### Dragonflight Formations
+You coordinate with the other members of your dragonflight to choose two different formations, as detailed in the Dragonflight Formations section later in this chapter. These formations are shared between all the members of your dragonflight, and if you leave the dragonflight you cannot benefit from the formations until you rejoin or form a new dragonflight. If you form a new dragonflight, you may collaborate to select new formations for that dragonflight.
+- I will need to work with my GM to choose these, as he controls the other characters.
+
+#### Age Restricted
+While you may grow in power through experience and adventuring, you cannot advance to 19th level until you advance your age category, becoming an ancient dragon of your species. To advance your age category, you must be 18th level and have a hoard with a value equivalent to the combined wealth of a small nation, the exact quantity of which is determined by the DM. When you have met both prerequisites, you must hibernate with your treasure hoard for a period of time determined by the DM, rapidly maturing your body. At the end of your hibernation, you awaken as an ancient dragon of your species.
 
 ### Draconic Instinct: Cunning
 You stalk your prey from the shadows, striking with frightening speed. While not wearing armor, your AC is equal to 13 + your Dexterity modifier, and your speed is calculated as though you were one size category larger than your normal size accord ing to the Speed column of the Features by Constitution table.
