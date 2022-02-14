@@ -19,26 +19,15 @@ Level 14 Dragon
 | Speed (Fly)   | 80ft               | Body Type     | Wrym               |
 | Speed (Swim)  | 40ft               |               |                    |
 
-- \* Note: Mechanically, Friday is an Amethyst Dragon, due to the breath weapon and the psionic abilites. She is flavoured as a Silicon Dragon, based on the appearance of refined silicon and large-feature-size ICs, like EPROMS. Funnily enough, the Amethyst Dragon is a surprisingly good fit for post-Friday silicon dragons to start with...
+- \* Note: Mechanically, Friday is an Amethyst Dragon, due to her breath weapon and psionic abilites. She is flavoured as a Silicon Dragon, based on the appearance of refined silicon and large-feature-size ICs, like EPROMS. Funnily enough, the Amethyst Dragon is a surprisingly good fit for post-Friday silicon dragons to start with...
 
 ### Hit Points
 Hit Dice: 2d12 per dragon level  
 HP at Level 1: 24 + 2*CON  
 HP at higher levels: (2d12 (or 13) + 2\*CON) \* dragon level - 1  
-lvl1: 34  
-lvl2: 68  
-lvl3: 102  
-lvl4: 136  
-lvl5: 170  
-lvl6: 204  
-lvl7: 240  
-lvl8: 276  
-lvl9: 312  
-lvl10: 348  
-lvl11: 384  
-lvl12: 420  
-lvl13: 456  
-lvl14: 492  
+
+Max HP: 492  
+Current HP: 492  
 
 ### Ability Scores
 
@@ -51,9 +40,9 @@ lvl14: 492
 | `WIS` | 23    |    +6    |        YES        |
 | `CHA` | 26    |    +8    |        YES        |
 
-Dragon Save DC: 8 + prof + DEX = 
+Dragon Save DC: 8 + prof + DEX = 20
 
-- To avoid Friday's stats becoming nearly equal across the board, her highest physical stat must always be less than or equal to her lowest mental stat.
+- Personal rule: To avoid Friday's stats becoming nearly equal across the board, her highest physical stat must always be less than or equal to her lowest mental stat.
   - Friday is presently in violation of this rule. This will need to be corrected with the ASI at level 15.
 
 ## Proficiencies
@@ -84,6 +73,11 @@ Breath Weapon: 150ft Line; 11d10 force damage, CON save half
 
 ## Traits
 
+### Energy Type: Force
+
+### Damage Immunities
+You are immune to the type(s) of damage your breath weapon deals (determined by your species).
+
 ### Ambition: Prowess/Respect  
 "I have found myself in a world without the prejudice I once suffered.  
 I will become great in this place. I will be both famous and infamous for my great deeds. I will create mighty works that, while they will surely be forgotten in time, will last thousands of years.  
@@ -97,48 +91,18 @@ Friday will collect great works, but especially weaponry, armory, and tools of w
 ### Age Category: Wyrmling
 At 1st level, you are a wyrmling, a mere child to others of your kind though already more powerful than many lesser creatures will ever be. As a wyrmling, you have the following features.
 
-#### Ability Score Increase
-You can increase four ability scores of your choice by 1. The same ability score can be increased multiple times using this feature.
-
-#### Ability Score Maximum
-Your maximum for any ability score is 21.
-
 #### Natural Weapons
 Your claws, bite, and tail are powerful natural weapons, which you can use to make attacks. The damage of these attacks is based on your size, as shown in the Features by Constitution table. You use your Strength modifier for attack and damage rolls with your natural weapons.
 You can choose to attack with one of your natural weapons each time you take the Attack action.
 
-#### Natural Armor
-While you are not wearing armor, your AC is equal to 17.
-Senses. You have blindsight out to a range of 10 feet, and darkvision out to a range of 60 feet.
-
-#### Age Restricted
-While you may grow in power through combat experience, you cannot advance to 7th level until you reach the next age category, becoming a young dragon.
-To advance your age category, you must be 6th level and have a hoard upon which your entire form can rest comfortably, equivalent in value to the entire holdings of a wealthy noble.
-The DM determines exactly how much you need to form this hoard. When you have met these prerequisites, you must hibernate with your treasure hoard for a period of time determined by the DM, rapidly maturing your body. At the end of your hibernation, you awaken as a young dragon of your species.
-
 ### Age Category: Young
 At 7th level, you have grown in size and power, becoming a young dragon. As a young dragon, you gain the following features.
-
-#### Ability Score Increase
-You can increase four different ability scores of your choice by 2.
-
-#### Ability Score Maximum
-Your maximum for any ability score is 25.
-
-#### Natural Armor
-While not wearing armor, your AC is equal to 18.
 
 #### Senses
 You have blindsight out to a range of 30 feet, and darkvision out to a range of 120 feet.
 
-#### Age Restricted
-While you may grow in power through experience and adventuring, you cannot advance to 13th level until you also advance your age category, becoming an adult dragon. To become an adult dragon, you must be 12th level and have a hoard of equivalent value to a monarch’s royal treasury. The DM determines exactly how much that is. When you have met these prerequisites, you must slumber with your treasure hoard for a period of time determined by the DM, rapidly maturing your body. At the end of your hibernation, you awaken as an adult dragon of your species.
-
 ### Age Category: Adult
 At 13th level, you have attained the size and power of an adult dragon. As an adult dragon of your species, you gain the following features.
-
-#### Ability Score Increase
-You can increase four different ability scores of your choice by 1.
 
 #### Ability Score Maximum
 Your maximum for any ability score is 28.
@@ -206,9 +170,8 @@ Spell attack modifier = your proficiency bonus + your Charisma modifier
 #### Arcane Jaws
 At 2nd level, when you score a hit with your Bite attack, you can expend a number of spell points up to your character level to deal bonus damage of your energy type to the target in addition to the attack’s normal damage. The extra damage is 1d6 for every 2 spell points you expend.
 
-#### Spellflurry I
-I: At 6th level, when you cast a spell with a casting time of an action, you may take a bonus action and expend 3 spell points to cast a cantrip.  
-II: At 9th level and again at 14th level, when you use a bonus action to cast a cantrip in this manner, you can expend 3 additional spell points to cast an additional cantrip as a part of that action, to a maximum of three cantrips at 14th level.
+#### Spellflurry 
+When you cast a spell with a casting time of an action, you may take a bonus action and expend 3 spell points to cast a cantrip. You may do cast up to three cantrips in the same bonus action, paying the cost for each one.
 
 #### Mystical Heritage
 At 10th level, the latent magic within you becomes ever present, influencing creatures and the environment around you. You gain the Change Shape feature, and either the Beguiling Presence, Magical Senses, or Mysterious Stranger feature.
@@ -220,16 +183,18 @@ Additionally, while you are in the form of a humanoid, you retain your Spellcast
 #### Magical Senses
 When you touch an object, you instantly learn about its nature as though you had cast the spell identify and targeted the object. Additionally, you can smell the presence of magic within 60 feet of you. If you smell magic in this way, you can use your action to learn the exact location of the source along with its school of magic, if any.
 
-### Energy Type: Force
+### Multiattack
+At 14th level, when you take the Attack action, you can make one attack with your Bite, two with your Claw, and one with your Tail.  
 
-### Damage Immunities
-You are immune to the type(s) of damage your breath weapon deals (determined by your species).
+### Languages
+- Common
+- Dwarvish
+- Infernal
+- Elvish\*
+  - Friday's Elvish is no longer very good. She is very out of practice with it, though she can read and write it, she cannot speak it well.
+- Draconic
 
-### Multiattack III
-I: Beginning at 4th level, when you take the Attack action, you can make one attack with your Bite or Tail, and one with your Claw.  
-II: At 9th level, when you take the Attack action, you can make one attack with your Bite or Tail, and two with your Claw.  
-III: At 14th level, when you take the Attack action, you can make one attack with your Bite, two with your Claw, and one with your Tail.  
-
+## Feats
 ### Feat: Dragonsong
 You are a student of the ancient and powerful magic of dragonsong which commands terrific power over non-dragons, granting you the following benefits.
 - You are proficient in Performance.
@@ -248,10 +213,5 @@ You have learned to move through air, earth, and water with remarkable efficienc
 - You gain a burrowing, climbing, or swimming speed (your choice) equal to your base walking speed.
   - I have chosen swimming speed.
 
-### Languages
-- Common
-- Dwarvish
-- Infernal
-- Elvish\*
-  - Friday's Elvish is no longer very good. She is very out of practice with it, though she can read and write it, she cannot speak it well.
-- Draconic
+## Spells
+- Still need to choose these...
