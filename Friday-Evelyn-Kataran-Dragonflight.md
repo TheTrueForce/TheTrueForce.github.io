@@ -7,7 +7,7 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 11 Dragon
+Level 12 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
@@ -15,9 +15,9 @@ Level 11 Dragon
 | Size          | Huge               | Age           | 240 years          |
 | Type          | Dragon             | Gender        | Female             |
 | Space         | 15ft               | Length        |                    |
-|               |                    | Weight        |                    |
-| Speed (Walk)  | 40ft               | Body Type     | Wrym               |
-| Speed (Fly)   | 80ft               |               |                    |
+| Speed (Walk)  | 40ft               | Weight        |                    |
+| Speed (Fly)   | 80ft               | Body Type     | Wrym               |
+| Speed (Swim)  | 40ft               |               |                    |
 
 - \* Note: Mechanically, Friday is an Amethyst Dragon, due to the breath weapon and the psionic abilites. She is flavoured as a Silicon Dragon, based on the appearance of refined silicon and large-feature-size ICs, like EPROMS. Funnily enough, the Amethyst Dragon is a surprisingly good fit for post-Friday silicon dragons to start with...
 
@@ -36,7 +36,7 @@ lvl8: 276
 lvl9: 312  
 lvl10: 348  
 lvl11: 384  
-lvl12: 
+lvl12: 420
 lvl13: 
 lvl14: 
 
@@ -52,6 +52,9 @@ lvl14:
 | `CHA` | 25    |    +6    |        YES        |
 
 Dragon Save DC: 8 + prof + DEX = 
+
+- To avoid Friday's stats becoming nearly equal across the board, her highest physical stat must always be less than or equal to her lowest mental stat.
+  - Friday is presently in violation of this rule. This will need to be corrected with the ASI at level 15.
 
 ## Proficiencies
 
@@ -75,8 +78,8 @@ Claw Attack: 2d8 slashing, 5ft range
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - These are determined by CON
 
-Breath Weapon: 60ft Cone; 9d10 force damage, DEX save half  
-Breath Weapon: 120ft Line; 9d10 force damage, CON save half
+Breath Weapon: 60ft Cone; 10d10 force damage, DEX save half  
+Breath Weapon: 120ft Line; 10d10 force damage, CON save half
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
@@ -208,10 +211,17 @@ You are a student of the ancient and powerful magic of dragonsong which commands
 - As an action, you can begin singing in magical dragonsong. Every non-dragon creature of your choice within 300 feet of you that can hear you must succeed on a Charisma saving throw against your dragon save DC or become cursed for as long as you continue to sing and the creature can hear you. While cursed in this manner, a creature takes psychic damage equal to your character level each time it makes an attack or casts a spell. On each of your turns, you must use a bonus action to continue singing. The song ends if you are incapacitated.
 
 ### Feat: Channel Breath
-You can channel your breath weapon for extended periods of time, though at great personal cost.
-When you use your breath weapon, you can choose to channel it. When you do so, you continue to exhale your breath weapon into the affected area for 1 minute or until you become incapacitated. On each of your turns while you exhale in this manner, you must use your action to continue the effect. When you do so, you cannot take any other actions.
-Additionally, you can change the orientation of your breath weapon when you move on your turn, subjecting any creatures caught in the effect that have not been affected by your breath weapon that turn to the breath weapon’s effects.
+You can channel your breath weapon for extended periods of time, though at great personal cost.  
+When you use your breath weapon, you can choose to channel it. When you do so, you continue to exhale your breath weapon into the affected area for 1 minute or until you become incapacitated. On each of your turns while you exhale in this manner, you must use your action to continue the effect. When you do so, you cannot take any other actions.  
+Additionally, you can change the orientation of your breath weapon when you move on your turn, subjecting any creatures caught in the effect that have not been affected by your breath weapon that turn to the breath weapon’s effects.  
 Once you have used your breath weapon in this manner, you must finish a long rest before you can use it again.
+
+### Feat: Draconic Wanderer
+You have learned to move through air, earth, and water with remarkable efficiency. You gain the following benefits.  
+- Your base walking speed increases by 10 feet.
+- Your movement is unaffected by nonmagical difficult terrain.
+- You gain a burrowing, climbing, or swimming speed (your choice) equal to your base walking speed.
+  - I have chosen swimming speed.
 
 ### Languages
 - Common
