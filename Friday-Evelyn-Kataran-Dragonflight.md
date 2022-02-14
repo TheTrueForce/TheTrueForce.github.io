@@ -78,8 +78,8 @@ Claw Attack: 2d8 slashing, 5ft range
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - These are determined by CON
 
-Breath Weapon: 60ft Cone; 10d10 force damage, DEX save half  
-Breath Weapon: 120ft Line; 10d10 force damage, CON save half
+Breath Weapon: 60ft Cone; 11d10 force damage, DEX save half  
+Breath Weapon: 120ft Line; 11d10 force damage, CON save half
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
