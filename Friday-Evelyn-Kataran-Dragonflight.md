@@ -7,7 +7,7 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 9 Dragon
+Level 10 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
@@ -34,7 +34,7 @@ lvl6: 204
 lvl7: 240  
 lvl8: 276  
 lvl9: 312  
-lvl10: 
+lvl10: 348  
 lvl11: 
 lvl12: 
 lvl13: 
@@ -75,8 +75,8 @@ Claw Attack: 2d8 slashing, 5ft range
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - These are determined by CON
 
-Breath Weapon: 45ft Cone; 8d10 force damage, DEX save half  
-Breath Weapon: 90ft Line; 8d10 force damage, CON save half
+Breath Weapon: 45ft Cone; 9d10 force damage, DEX save half  
+Breath Weapon: 90ft Line; 9d10 force damage, CON save half
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
@@ -181,6 +181,16 @@ At 2nd level, when you score a hit with your Bite attack, you can expend a numbe
 #### Spellflurry I
 I: At 6th level, when you cast a spell with a casting time of an action, you may take a bonus action and expend 3 spell points to cast a cantrip.  
 II: At 9th level and again at 14th level, when you use a bonus action to cast a cantrip in this manner, you can expend 3 additional spell points to cast an additional cantrip as a part of that action, to a maximum of three cantrips at 14th level.
+
+#### Mystical Heritage
+At 10th level, the latent magic within you becomes ever present, influencing creatures and the environment around you. You gain the Change Shape feature, and either the Beguiling Presence, Magical Senses, or Mysterious Stranger feature.
+
+#### Change Shape
+As an action, you can magically polymorph into a humanoid or beast with a challenge rating no higher than your character level or back into your true form. You revert to your true form if you die. Any equipment you are wearing or carrying is absorbed or borne by the new form (your choice). In a new form, you retain your alignment, hit points, Hit Dice, ability to speak, proficiencies, Intelligence, Wisdom, and Charisma scores, and the Change Shape action. Additionally, if you have them, you retain your Legendary Resistance, lair actions, Beguiling Presence, Magical Senses, and Mysterious Stranger features. Your statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+Additionally, while you are in the form of a humanoid, you retain your Spellcasting feature, regardless of the effect used to assume your new form.
+
+#### Magical Senses
+When you touch an object, you instantly learn about its nature as though you had cast the spell identify and targeted the object. Additionally, you can smell the presence of magic within 60 feet of you. If you smell magic in this way, you can use your action to learn the exact location of the source along with its school of magic, if any.
 
 ### Energy Type: Force
 
