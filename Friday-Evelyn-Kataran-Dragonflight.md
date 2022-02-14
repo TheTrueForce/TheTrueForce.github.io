@@ -7,15 +7,15 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 7 Dragon
+Level 8 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
 | Race          | Amethyst Dragon\*  | Alignment     | True Neutral? idk  |
 | Size          | Huge               | Age           | 240 years          |
 | Type          | Dragon             | Gender        | Female             |
-| Space         | 5ft                | Length        |                    |
-| Reach         | 5ft                | Weight        |                    |
+| Space         | 15ft               | Length        |                    |
+|               |                    | Weight        |                    |
 | Speed (Walk)  | 40ft               | Body Type     | Wrym               |
 | Speed (Fly)   | 80ft               |               |                    |
 
@@ -32,7 +32,7 @@ lvl4: 136
 lvl5: 170  
 lvl6: 204  
 lvl7: 240  
-lvl8: 
+lvl8: 276  
 lvl9: 
 lvl10: 
 lvl11: 
@@ -47,8 +47,8 @@ lvl14:
 | `STR` | 20    |    +5    |        YES        |
 | `DEX` | 22    |    +6    |        YES        |
 | `CON` | 23    |    +6    |        YES        |
-| `INT` | 19    |    +4    |                   |
-| `WIS` | 20    |    +5    |        YES        |
+| `INT` | 21    |    +5    |                   |
+| `WIS` | 22    |    +6    |        YES        |
 | `CHA` | 23    |    +6    |        YES        |
 
 Dragon Save DC: 8 + prof + DEX = 
@@ -75,8 +75,8 @@ Claw Attack: 2d8 slashing, 5ft range
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - These are determined by CON
 
-Breath Weapon: 30ft Cone; 7d10 force damage, DEX save half  
-Breath Weapon: 60ft Line; 7d10 force damage, CON save half
+Breath Weapon: 45ft Cone; 7d10 force damage, DEX save half  
+Breath Weapon: 90ft Line; 7d10 force damage, CON save half
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
