@@ -7,7 +7,7 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 8 Dragon
+Level 9 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
@@ -33,7 +33,7 @@ lvl5: 170
 lvl6: 204  
 lvl7: 240  
 lvl8: 276  
-lvl9: 
+lvl9: 312  
 lvl10: 
 lvl11: 
 lvl12: 
@@ -75,8 +75,8 @@ Claw Attack: 2d8 slashing, 5ft range
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - These are determined by CON
 
-Breath Weapon: 45ft Cone; 7d10 force damage, DEX save half  
-Breath Weapon: 90ft Line; 7d10 force damage, CON save half
+Breath Weapon: 45ft Cone; 8d10 force damage, DEX save half  
+Breath Weapon: 90ft Line; 8d10 force damage, CON save half
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
@@ -153,20 +153,21 @@ All dragons are magical beings, but only some can tap into the tremendous reserv
 When you reach 2nd level, you add the ability to cast spells to your already formidable draconic abilities. Your spellcasting follows the standard 5th Edition rules, with a few exceptions.
 
 ##### Draconic Magic
-Spells you cast using this spellcasting feature can be cast without the need for somatic components, nor material components without a listed gp cost. Your maxi mum reach for touch spells is the same as your reach for your Bite attack.
-You have an Arcanist spell list from which you choose which spells you know.
-The Arcanist Spellcasting table shows the number of cantrips you know, the number of spells of 1st level or higher you know, your maximum spell points, and the maximum level of spell you can cast, all based on your Arcanist level.
+Spells you cast using this spellcasting feature can be cast without the need for somatic components, nor material components without a listed gp cost. Your maximum reach for touch spells is the same as your reach for your Bite attack.  
+You have an Arcanist spell list from which you choose which spells you know.  
+The Arcanist Spellcasting table shows the number of cantrips you know, the number of spells of 1st level or higher you know, your maximum spell points, and the maximum level of spell you can cast, all based on your Arcanist level.  
 
 ##### Cantrips
 You know a number of cantrips of your choice, based on your Arcanist level.
 
 ##### Spell Points
-The Arcanist Spell Point Cost table shows how many spell points you must spend to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points according to the table.
+The Arcanist Spell Point Cost table shows how many spell points you must spend to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points according to the table.  
 Casting spells at a higher level requires an expenditure of additional spell points to match a spell of that level. You cannot increase the level of spell using spell points to a level higher than your maximum spell level. You regain all expended spell points when you finish a long rest.
 
 ##### Spells Known of 1st Level or Higher
 You know a number of Arcanist spells of your choice, based on your Arcanist level.
 Whenever you gain a level in the dragon class, you can replace two of the Arcanist spells you know with other spells of your choice from the Arcanist spell list. The new spells must be of a level for which you have spell slots.
+- The requirement for these spells to be on the Arcanist spell list has been waived.
 
 ##### Spellcasting Ability: CHA
 Charisma is your spellcasting ability for your Arcanist spells, as your magic flows from within your body, called forth by your force of personality. You use your Charisma modifier whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for an Arcanist spell you cast and when making an attack roll with one.
@@ -177,25 +178,30 @@ Spell attack modifier = your proficiency bonus + your Charisma modifier
 #### Arcane Jaws
 At 2nd level, when you score a hit with your Bite attack, you can expend a number of spell points up to your character level to deal bonus damage of your energy type to the target in addition to the attack’s normal damage. The extra damage is 1d6 for every 2 spell points you expend.
 
-#### Spellflurry
-At 6th level, when you cast a spell with a casting time of an action, you may take a bonus action and expend 3 spell points to cast a cantrip.  
-At 9th level and again at 14th level, when you use a bonus action to cast a cantrip in
-this manner, you can expend 3 additional spell points to cast an additional cantrip as a part of that action, to a maximum of three cantrips at 14th level.
+#### Spellflurry I
+I: At 6th level, when you cast a spell with a casting time of an action, you may take a bonus action and expend 3 spell points to cast a cantrip.  
+II: At 9th level and again at 14th level, when you use a bonus action to cast a cantrip in this manner, you can expend 3 additional spell points to cast an additional cantrip as a part of that action, to a maximum of three cantrips at 14th level.
 
 ### Energy Type: Force
 
 ### Damage Immunities
 You are immune to the type(s) of damage your breath weapon deals (determined by your species).
 
-### Multiattack
-Beginning at 4th level, when you take the Attack action, you can make one attack with your Bite or Tail, and one with your Claw.
-At 9th level, when you take the Attack action, you can make one attack with your Bite or Tail, and two with your Claw.
-At 14th level, when you take the Attack action, you can make one attack with your Bite, two with your Claw, and one with your Tail.
+### Multiattack II
+I: Beginning at 4th level, when you take the Attack action, you can make one attack with your Bite or Tail, and one with your Claw.  
+II: At 9th level, when you take the Attack action, you can make one attack with your Bite or Tail, and two with your Claw.  
+III: At 14th level, when you take the Attack action, you can make one attack with your Bite, two with your Claw, and one with your Tail.  
 
 ### Feat: Dragonsong
 You are a student of the ancient and powerful magic of dragonsong which commands terrific power over non-dragons, granting you the following benefits.
 - You are proficient in Performance.
 - As an action, you can begin singing in magical dragonsong. Every non-dragon creature of your choice within 300 feet of you that can hear you must succeed on a Charisma saving throw against your dragon save DC or become cursed for as long as you continue to sing and the creature can hear you. While cursed in this manner, a creature takes psychic damage equal to your character level each time it makes an attack or casts a spell. On each of your turns, you must use a bonus action to continue singing. The song ends if you are incapacitated.
+
+### Feat: Channel Breath
+You can channel your breath weapon for extended periods of time, though at great personal cost.
+When you use your breath weapon, you can choose to channel it. When you do so, you continue to exhale your breath weapon into the affected area for 1 minute or until you become incapacitated. On each of your turns while you exhale in this manner, you must use your action to continue the effect. When you do so, you cannot take any other actions.
+Additionally, you can change the orientation of your breath weapon when you move on your turn, subjecting any creatures caught in the effect that have not been affected by your breath weapon that turn to the breath weapon’s effects.
+Once you have used your breath weapon in this manner, you must finish a long rest before you can use it again.
 
 ### Languages
 - Common
