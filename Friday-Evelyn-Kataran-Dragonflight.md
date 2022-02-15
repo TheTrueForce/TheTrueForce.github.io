@@ -83,7 +83,8 @@ You are immune to the type(s) of damage your breath weapon deals (determined by 
 I will become great in this place. I will be both famous and infamous for my great deeds. I will create mighty works that, while they will surely be forgotten in time, will last thousands of years.  
 I will ply my trade, and become the greatest master gunsmith the world has ever seen. Mighty warriors, Kings, Emperors, and maybe even lesser gods will come to me, and I will forge for them mighty weapons; the very best of their kind.  
 I will go to the stars. I will blaze the trail, I will pave the way, and my people shall walk and fly among the stars, because of what I have done.  
-The name and deeds and works of Friday Kataran will ring through history, long, long after I am dead."
+The name and deeds and works of Friday Kataran will ring through history, long, long after I am dead."  
+\- Friday Kataran
 
 ### Obsession: The Works of Man
 Friday will collect great works, but especially weaponry, armory, and tools of warfare.
@@ -195,18 +196,18 @@ At 14th level, when you take the Attack action, you can make one attack with you
 - Draconic
 
 ## Feats
-### Feat: Dragonsong
+### Dragonsong
 You are a student of the ancient and powerful magic of dragonsong which commands terrific power over non-dragons, granting you the following benefits.
 - You are proficient in Performance.
 - As an action, you can begin singing in magical dragonsong. Every non-dragon creature of your choice within 300 feet of you that can hear you must succeed on a Charisma saving throw against your dragon save DC or become cursed for as long as you continue to sing and the creature can hear you. While cursed in this manner, a creature takes psychic damage equal to your character level each time it makes an attack or casts a spell. On each of your turns, you must use a bonus action to continue singing. The song ends if you are incapacitated.
 
-### Feat: Channel Breath
+### Channel Breath
 You can channel your breath weapon for extended periods of time, though at great personal cost.  
 When you use your breath weapon, you can choose to channel it. When you do so, you continue to exhale your breath weapon into the affected area for 1 minute or until you become incapacitated. On each of your turns while you exhale in this manner, you must use your action to continue the effect. When you do so, you cannot take any other actions.  
 Additionally, you can change the orientation of your breath weapon when you move on your turn, subjecting any creatures caught in the effect that have not been affected by your breath weapon that turn to the breath weapon’s effects.  
 Once you have used your breath weapon in this manner, you must finish a long rest before you can use it again.
 
-### Feat: Draconic Wanderer
+### Draconic Wanderer
 You have learned to move through air, earth, and water with remarkable efficiency. You gain the following benefits.  
 - Your base walking speed increases by 10 feet.
 - Your movement is unaffected by nonmagical difficult terrain.
@@ -214,4 +215,51 @@ You have learned to move through air, earth, and water with remarkable efficienc
   - I have chosen swimming speed.
 
 ## Spells
-- Still need to choose these...
+
+Spell Point (SP) Maximum: 103
+
+### Cantrips
+#### Eldritch Blast
+#### Sacred Flame
+#### Produce Flame
+#### Mending
+#### Dancing Lights
+
+### Level 1
+- 2 SP per cast
+#### Hex
+#### Guiding Bolt
+#### Shield
+#### Magic Missile
+
+### Level 2
+- 3 SP per cast
+#### See Invisbility
+#### Misty Step
+
+### Level 3
+- 5 SP per cast
+#### Major Image
+
+### Level 4
+- 6 SP per cast
+#### Mordenkainen's Private Sanctum
+
+### Level 5
+- 7 SP per cast
+#### Hold Monster
+
+### Level 6
+- 9 SP per cast
+#### Heroes' Feast
+#### Forbiddance
+
+### Level 7
+- 10 SP per cast
+#### Sequester
+#### Regenerate
+
+### Level 9
+- 13 SP per cast
+#### Power Word Kill
+#### Gate
