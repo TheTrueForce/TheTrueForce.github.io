@@ -21,16 +21,6 @@ Level 14 Dragon
 
 - \* Note: Mechanically, Friday is an Amethyst Dragon, due to her breath weapon and psionic abilites. She is flavoured as a Silicon Dragon, based on the appearance of refined silicon and large-feature-size ICs, like EPROMS. Funnily enough, the Amethyst Dragon is a surprisingly good fit for post-Friday silicon dragons to start with...
 
-### Hit Points
-Hit Dice: 2d12 per dragon level  
-HP at Level 1: 24 + 2*CON  
-HP at higher levels: (2d12 (or 13) + 2\*CON) \* dragon level - 1  
-
-Max HP: 492  
-Current HP: 492  
-
-### Ability Scores
-
 | Stat  | Score | Modifier | Saving Throw Prof |
 |-------|-------|----------|-------------------|
 | `STR` | 21    |    +5    |        YES        |
@@ -43,8 +33,16 @@ Current HP: 492
 Dragon Save DC: 8 + prof + DEX = 20  
 Armour Class: 19 + DEX = 25  
 
-- Personal rule: To avoid Friday's stats becoming nearly equal across the board, her highest physical stat must always be less than or equal to her lowest mental stat.
-  - Friday is presently in violation of this rule. This will need to be corrected with the ASI at level 15.
+- Personal rule: To avoid Friday's stats becoming nearly equal across the board, her highest physical stat must always be less than or equal to her lowest mental stat, and her DEX should never be the lowest of her physical stats.
+
+Hit Dice: 2d12 per dragon level  
+HP at Level 1: 24 + 2*CON  
+HP at higher levels: (2d12 (or 13) + 2\*CON) \* dragon level - 1  
+
+Max HP: 492  
+Current HP: 492  
+
+Initiative: DEX + 
 
 ## Proficiencies
 
@@ -67,18 +65,14 @@ Bite attack: 2d8 piercing + 2d6 force, 10ft range
 Claw Attack: 2d8 slashing, 5ft range  
 Tail Attack: 2d8 bludgeoning, 15ft range  
 - Damage and range are determined by CON
-- These are all finesse weapons.
+- These are all finesse weapons. You may add your DEX __or__ your STR mod to both attack and damage rolls.
+- These can form a multiattack: 1x bite, 2x claw, 1x tail.
 
 Breath Weapon: 75ft Cone; 11d10 force damage, DEX save half  
-Breath Weapon: 150ft Line; 11d10 force damage, CON save half
+Breath Weapon: 150ft Line; 11d10 force damage, CON save half  
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
-
-### Energy Type: Force
-
-### Damage Immunities
-You are immune to the type(s) of damage your breath weapon deals (determined by your species).
 
 ### Ambition: Prowess/Respect  
 "I have found myself in a world without the prejudice I once suffered.  
@@ -90,22 +84,36 @@ The name and deeds and works of Friday Kataran will ring through history, long, 
 
 ### Obsession: The Works of Man
 Friday will collect great works, but especially weaponry, armory, and tools of warfare.
+- Among these might be found the first mundane flying machine that actually worked (looking at you, Wright brothers...), collections of tools of a given purpose from across the ages, and sheet music.
 
-### Age Category: Wyrmling
-At 1st level, you are a wyrmling, a mere child to others of your kind though already more powerful than many lesser creatures will ever be. As a wyrmling, you have the following features.
+### Energy Type: Force
+
+### Damage Immunities
+You are immune to the type(s) of damage your breath weapon deals (determined by your species).
+
+### Family Trait: Psionic Power: Telekinesis
+You can telekinetically manipulate unattended objects within 300 ft. of you. To do so, you must use your action to seize control of the object, which cannot weigh more than you do. While manipulating an object in this manner, you can expend your movement to move the object a distance through the air equal to the movement expended. A creature within reach can attempt to free a telekinetically manipulated object from your influence by taking an action to succeed on a Strength (Athletics) check versus your dragon save DC. While you manipulate an object in this manner, you must concentrate (as though concentrating on a spell), and the effect ends if the object is ever more than 300 ft. from you.
+
+### Draconic Instinct: Cunning
+You stalk your prey from the shadows, striking with frightening speed. While not wearing armor, your AC is equal to 13 + your Dexterity modifier, and your speed is calculated as though you were one size category larger than your normal size accord ing to the Speed column of the Features by Constitution table.
+
+Additionally, your natural weapons are considered finesse weapons, and you are proficient in Dexterity saving throws.
+Finally, your dragon save DC is calculated as follows:
+
+### Hoard
+A dragon’s hoard is essential to its growth and health, and you must maintain your hoard to advance as a dragon. The area where you keep your hoard is considered your lair, which you must safeguard against would-be thieves. Starting at 1st level you should work with the DM to determine the location of your lair. You may relocate your lair later. If you are playing in a dragonflight, you must decide where to house your collective, working together to amass a hoard larger than any of you could achieve alone.
+Your hoard is more than treasure—it is a part of you. As you advance in levels and grow in age, the area around it may gain special magical properties befitting your species. The details of these effects and their impact on you are detailed in chapter 4.
+- Dragon save DC = 8 + your proficiency bonus + your Dexterity modifier
+
+### Age Category: Adult
+At 13th level, you have attained the size and power of an adult dragon. As an adult dragon of your species, you gain the following features.
 
 #### Natural Weapons
 Your claws, bite, and tail are powerful natural weapons, which you can use to make attacks. The damage of these attacks is based on your size, as shown in the Features by Constitution table. You use your Strength modifier for attack and damage rolls with your natural weapons.
 You can choose to attack with one of your natural weapons each time you take the Attack action.
 
-### Age Category: Young
-At 7th level, you have grown in size and power, becoming a young dragon. As a young dragon, you gain the following features.
-
 #### Senses
 You have blindsight out to a range of 30 feet, and darkvision out to a range of 120 feet.
-
-### Age Category: Adult
-At 13th level, you have attained the size and power of an adult dragon. As an adult dragon of your species, you gain the following features.
 
 #### Ability Score Maximum
 Your maximum for any ability score is 28.
@@ -125,20 +133,6 @@ You coordinate with the other members of your dragonflight to choose two differe
 
 #### Age Restricted
 While you may grow in power through experience and adventuring, you cannot advance to 19th level until you advance your age category, becoming an ancient dragon of your species. To advance your age category, you must be 18th level and have a hoard with a value equivalent to the combined wealth of a small nation, the exact quantity of which is determined by the DM. When you have met both prerequisites, you must hibernate with your treasure hoard for a period of time determined by the DM, rapidly maturing your body. At the end of your hibernation, you awaken as an ancient dragon of your species.
-
-### Draconic Instinct: Cunning
-You stalk your prey from the shadows, striking with frightening speed. While not wearing armor, your AC is equal to 13 + your Dexterity modifier, and your speed is calculated as though you were one size category larger than your normal size accord ing to the Speed column of the Features by Constitution table.
-
-Additionally, your natural weapons are considered finesse weapons, and you are proficient in Dexterity saving throws.
-Finally, your dragon save DC is calculated as follows:
-- Dragon save DC = 8 + your proficiency bonus + your Dexterity modifier
-
-### Hoard
-A dragon’s hoard is essential to its growth and health, and you must maintain your hoard to advance as a dragon. The area where you keep your hoard is considered your lair, which you must safeguard against would-be thieves. Starting at 1st level you should work with the DM to determine the location of your lair. You may relocate your lair later. If you are playing in a dragonflight, you must decide where to house your collective, working together to amass a hoard larger than any of you could achieve alone.
-Your hoard is more than treasure—it is a part of you. As you advance in levels and grow in age, the area around it may gain special magical properties befitting your species. The details of these effects and their impact on you are detailed in chapter 4.
-
-### Family Trait: Psionic Power: Telekinesis
-You can telekinetically manipulate unattended objects within 300 ft. of you. To do so, you must use your action to seize control of the object, which cannot weigh more than you do. While manipulating an object in this manner, you can expend your movement to move the object a distance through the air equal to the movement expended. A creature within reach can attempt to free a telekinetically manipulated object from your influence by taking an action to succeed on a Strength (Athletics) check versus your dragon save DC. While you manipulate an object in this manner, you must concentrate (as though concentrating on a spell), and the effect ends if the object is ever more than 300 ft. from you.
 
 ### Dragon Paradigm: Arcanist
 
@@ -215,6 +209,23 @@ You have learned to move through air, earth, and water with remarkable efficienc
 - Your movement is unaffected by nonmagical difficult terrain.
 - You gain a burrowing, climbing, or swimming speed (your choice) equal to your base walking speed.
   - I have chosen swimming speed.
+
+### Alert
+Always on the lookout for danger, you gain the following benefits:
+- You gain a +5 bonus to initiative.
+- You can't be surprised while you are conscious.
+- Other creatures don't gain advantage on attack rolls against you as a result of being hidden from you.
+
+### Keen Mind
+You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:
+- Increase your lntelligence score by 1, to a maximum of 20.
+- You always know which way is north.
+- You always know the number of hours left befor ethe next sunrise or sunset.
+- You can accurately recall anything you have sen or heard within the past month.
+
+### Skilled
+You gain proficiency in any combination of three skills or tools of your choice.
+- I have chosen Stealth, Perception, and Performance.
 
 ## Spells
 
