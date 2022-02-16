@@ -15,9 +15,9 @@ Level 14 Dragon
 | Size          | Huge               | Age           | 240 years          |
 | Type          | Dragon             | Gender        | Female             |
 | Space         | 15ft               | Length        |                    |
-| Speed (Walk)  | 40ft               | Weight        |                    |
-| Speed (Fly)   | 80ft               | Body Type     | Wrym               |
-| Speed (Swim)  | 40ft               |               |                    |
+| Speed (Walk)  | 50ft               | Weight        |                    |
+| Speed (Fly)   | 120ft              | Body Type     | Wrym               |
+| Speed (Swim)  | 50ft               |               |                    |
 
 - \* Note: Mechanically, Friday is an Amethyst Dragon, due to her breath weapon and psionic abilites. She is flavoured as a Silicon Dragon, based on the appearance of refined silicon and large-feature-size ICs, like EPROMS. Funnily enough, the Amethyst Dragon is a surprisingly good fit for post-Friday silicon dragons to start with...
 
@@ -40,7 +40,8 @@ Current HP: 492
 | `WIS` | 23    |    +6    |        YES        |
 | `CHA` | 26    |    +8    |        YES        |
 
-Dragon Save DC: 8 + prof + DEX = 20
+Dragon Save DC: 8 + prof + DEX = 20  
+Armour Class: 19 + DEX = 25  
 
 - Personal rule: To avoid Friday's stats becoming nearly equal across the board, her highest physical stat must always be less than or equal to her lowest mental stat.
   - Friday is presently in violation of this rule. This will need to be corrected with the ASI at level 15.
@@ -65,7 +66,8 @@ Proficiency Bonus: +6
 Bite attack: 2d8 piercing + 2d6 force, 10ft range  
 Claw Attack: 2d8 slashing, 5ft range  
 Tail Attack: 2d8 bludgeoning, 15ft range  
-- These are determined by CON
+- Damage and range are determined by CON
+- These are all finesse weapons.
 
 Breath Weapon: 75ft Cone; 11d10 force damage, DEX save half  
 Breath Weapon: 150ft Line; 11d10 force damage, CON save half
