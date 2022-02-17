@@ -100,7 +100,7 @@ You stalk your prey from the shadows, striking with frightening speed. While not
 Additionally, your natural weapons are considered finesse weapons, and you are proficient in Dexterity saving throws.
 Finally, your dragon save DC is calculated as follows:
 
-### Hoard
+### [Hoard](Fridays-hoard)
 A dragon’s hoard is essential to its growth and health, and you must maintain your hoard to advance as a dragon. The area where you keep your hoard is considered your lair, which you must safeguard against would-be thieves. Starting at 1st level you should work with the DM to determine the location of your lair. You may relocate your lair later. If you are playing in a dragonflight, you must decide where to house your collective, working together to amass a hoard larger than any of you could achieve alone.
 Your hoard is more than treasure—it is a part of you. As you advance in levels and grow in age, the area around it may gain special magical properties befitting your species. The details of these effects and their impact on you are detailed in chapter 4.
 - Dragon save DC = 8 + your proficiency bonus + your Dexterity modifier
