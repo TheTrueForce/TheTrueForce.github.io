@@ -74,7 +74,7 @@ At 2nd level, and again at 7th and 13th level you may choose one of the followin
 
 ### Extra Action
 
-At 5th level, you may take one additional action per turn. You may not use more than three actions per turn per body.
+At 5th level, you may take one additional action per turn. You may not use more than one action per turn per body.
 At 15th level, you may take one more additional action.
 
 ### Extra Bonus Action
