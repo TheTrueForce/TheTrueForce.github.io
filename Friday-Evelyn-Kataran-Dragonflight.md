@@ -7,7 +7,7 @@ Friday was raised unaware of her draconic and archonic natures, but as she aged,
 
 ## Stats
 
-Level 14 Dragon
+Level 16 Dragon
 
 | Key           |              Value | Key           |              Value |
 |---------------|--------------------|---------------|--------------------|
@@ -24,10 +24,10 @@ Level 14 Dragon
 | Stat  | Score | Modifier | Saving Throw Prof |
 |-------|-------|----------|-------------------|
 | `STR` | 21    |    +5    |        YES        |
-| `DEX` | 22    |    +6    |        YES        |
+| `DEX` | 24    |    +7    |        YES        |
 | `CON` | 23    |    +6    |        YES        |
 | `INT` | 24    |    +7    |                   |
-| `WIS` | 23    |    +6    |        YES        |
+| `WIS` | 25    |    +7    |        YES        |
 | `CHA` | 26    |    +8    |        YES        |
 
 Dragon Save DC: 8 + prof + DEX = 20  
@@ -39,10 +39,10 @@ Hit Dice: 2d12 per dragon level
 HP at Level 1: 24 + 2*CON  
 HP at higher levels: (2d12 (or 13) + 2\*CON) \* dragon level - 1  
 
-Max HP: 492  
-Current HP: 492  
+Max HP: 576  
+Current HP: 576  
 
-Initiative: DEX + 
+Initiative: DEX
 
 ## Proficiencies
 
@@ -51,7 +51,7 @@ Proficiency Bonus: +6
   - Natural weapons (bite, claw, tail)
 - Skills
   - Athletics
-  - History
+  - History (expertise)
   - Insight
   - Intimidation
   - Investigation
@@ -68,8 +68,8 @@ Tail Attack: 2d8 bludgeoning, 15ft range
 - These are all finesse weapons. You may add your DEX __or__ your STR mod to both attack and damage rolls.
 - These can form a multiattack: 1x bite, 2x claw, 1x tail.
 
-Breath Weapon: 75ft Cone; 11d10 force damage, DEX save half  
-Breath Weapon: 150ft Line; 11d10 force damage, CON save half  
+Breath Weapon: 75ft Cone; 13d10 force damage, DEX save half  
+Breath Weapon: 150ft Line; 13d10 force damage, CON save half  
 - This is determined by dragon type and dragon level. I am taking liberties with the DEX save on the cone attack so that they don't feel quite so similar.
 
 ## Traits
@@ -130,6 +130,13 @@ If you are a part of a dragonflight or are creating an NPC as a part of a dragon
 ##### Dragonflight Formations
 You coordinate with the other members of your dragonflight to choose two different formations, as detailed in the Dragonflight Formations section later in this chapter. These formations are shared between all the members of your dragonflight, and if you leave the dragonflight you cannot benefit from the formations until you rejoin or form a new dragonflight. If you form a new dragonflight, you may collaborate to select new formations for that dragonflight.
 - I will need to work with my GM to choose these, as he controls the other characters.
+- Each dragonflight member brings one Formation to the Dragonflight.
+
+###### Inspired Spirits
+Your formation is thrilled at the prospect of battle.  
+Until the end of combat, whenever any member of your dragonflight makes an attack roll or ability check, but before the results are known, they may choose to give themselves advantage on that attack roll or check.  
+This benefit cannot affect a single member more than once per round.
+
 
 #### Age Restricted
 While you may grow in power through experience and adventuring, you cannot advance to 19th level until you advance your age category, becoming an ancient dragon of your species. To advance your age category, you must be 18th level and have a hoard with a value equivalent to the combined wealth of a small nation, the exact quantity of which is determined by the DM. When you have met both prerequisites, you must hibernate with your treasure hoard for a period of time determined by the DM, rapidly maturing your body. At the end of your hibernation, you awaken as an ancient dragon of your species.
@@ -145,6 +152,9 @@ When you reach 2nd level, you add the ability to cast spells to your already for
 Spells you cast using this spellcasting feature can be cast without the need for somatic components, nor material components without a listed gp cost. Your maximum reach for touch spells is the same as your reach for your Bite attack.  
 You have an Arcanist spell list from which you choose which spells you know.  
 The Arcanist Spellcasting table shows the number of cantrips you know, the number of spells of 1st level or higher you know, your maximum spell points, and the maximum level of spell you can cast, all based on your Arcanist level.  
+- Spell Point Maximum: 126
+- Spells Known: 17
+- Maximum Spell Level: 8
 
 ##### Cantrips
 You know a number of cantrips of your choice, based on your Arcanist level.
@@ -167,7 +177,7 @@ Spell attack modifier = your proficiency bonus + your Charisma modifier
 #### Arcane Jaws
 At 2nd level, when you score a hit with your Bite attack, you can expend a number of spell points up to your character level to deal bonus damage of your energy type to the target in addition to the attack’s normal damage. The extra damage is 1d6 for every 2 spell points you expend.
 
-#### Spellflurry 
+#### Spellflurry
 When you cast a spell with a casting time of an action, you may take a bonus action and expend 3 spell points to cast a cantrip. You may do cast up to three cantrips in the same bonus action, paying the cost for each one.
 
 #### Mystical Heritage
@@ -179,6 +189,11 @@ Additionally, while you are in the form of a humanoid, you retain your Spellcast
 
 #### Magical Senses
 When you touch an object, you instantly learn about its nature as though you had cast the spell identify and targeted the object. Additionally, you can smell the presence of magic within 60 feet of you. If you smell magic in this way, you can use your action to learn the exact location of the source along with its school of magic, if any.
+
+#### Spellbreath Weapon
+At 16th level, you can imbue your breath weapon with your magic.  
+When you use your breath weapon, you may also cast a spell with a casting time of an action with an area of effect (cone, cube, cylinder, line, or sphere) and a duration of instantaneous. This spell’s area changes to become the area of your breath weapon, and you choose which effect (the breath weapon or the spell) occurs first.  
+After using your breath weapon in this manner, you cannot use your breath weapon again until you finish a short or long rest.
 
 ### Multiattack
 At 14th level, when you take the Attack action, you can make one attack with your Bite, two with your Claw, and one with your Tail.  
@@ -249,10 +264,12 @@ Spell Point (SP) Maximum: 103
 - 3 SP per cast
 #### See Invisbility
 #### Misty Step
+#### Blur
 
 ### Level 3
 - 5 SP per cast
 #### Major Image
+#### Bestow Curse
 
 ### Level 4
 - 6 SP per cast
@@ -266,11 +283,16 @@ Spell Point (SP) Maximum: 103
 - 9 SP per cast
 #### Heroes' Feast
 #### Forbiddance
+#### Disintegrate
 
 ### Level 7
 - 10 SP per cast
 #### Sequester
 #### Regenerate
+
+### Level 8
+- 11 SP per cast
+#### Power Word Stun
 
 ### Level 9
 - 13 SP per cast
